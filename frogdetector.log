@@ -1,0 +1,3 @@
+2025-02-28 20:37:12,034 - Detected 1 'frog' occurrences.
+2025-02-28 20:37:12,034 - Detected 1 'toad' occurrences.
+2025-02-28 20:37:12,034 - Checked text: The frog and the toad met a turtle.... | Results: {'frog': 1, 'toad': 1}
